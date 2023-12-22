@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#logout{
+    /* display: flex; */
+    /* align-items: center;
+    justify-content: center; */
+    float: right;
+    top: 0;
+}
+h2{
+    text-align: center;
+    top: 18px;
+}
